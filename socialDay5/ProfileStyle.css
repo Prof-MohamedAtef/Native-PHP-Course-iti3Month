@@ -1,0 +1,69 @@
+body {
+    background-color: #B3E5FC;
+    border-radius: 10px
+}
+
+.card {
+    width: 800px;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff
+}
+
+.stats {
+    background: #f2f5f8 !important;
+    color: #000 !important
+}
+
+.articles {
+    font-size: 10px;
+    color: #FFFF
+}
+
+.number1 {
+    font-weight: 500
+}
+
+.followers {
+    font-size: 10px;
+    color: #FFF
+}
+
+.number2 {
+    font-weight: 500
+}
+
+.rating {
+    font-size: 10px;
+    color: #FFF
+}
+
+.number3 {
+    font-weight: 500
+}
+#container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+  }
+  #leftThing {
+    width: 25%;
+    margin-left: 50px;
+  }
+  #content {
+    width: 25%;
+    margin-left: 50px;
+  }
+  #rightThing {
+    width: 25%;
+    margin-left: 50px;
+  }
+  
+  .floatImages{
+      float: right;
+      margin-right: 5%;
+  } 
+  #TitleContainer{
+      display: flex;
+      width: 50%;
+  }
